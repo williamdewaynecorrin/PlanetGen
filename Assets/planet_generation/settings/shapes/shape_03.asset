@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcd55778611d0f045b3b51ef1458c8bb, type: 3}
+  m_Name: shape_03
+  m_EditorClassIdentifier: 
+  planetradius: 300
+  noiselayers:
+  - enabled: 1
+    usefirstlayerasmask: 0
+    settings:
+      description: Continents
+      filtertype: 0
+      simplesettings:
+        strength: 0.87
+        layers: 1
+        baseroughness: 1.05
+        roughness: 1.18
+        persistence: 0.24
+        center: {x: 0, y: 0, z: 0}
+        minvalue: 0.5
+      rigidsettings:
+        strength: 0
+        layers: 0
+        baseroughness: 0
+        roughness: 0
+        persistence: 0
+        center: {x: 0, y: 0, z: 0}
+        minvalue: 0
+        weightmultiplier: 0
+  - enabled: 1
+    usefirstlayerasmask: 0
+    settings:
+      description: Sharp Mountains
+      filtertype: 0
+      simplesettings:
+        strength: 0.21
+        layers: 6
+        baseroughness: 3.78
+        roughness: 1.75
+        persistence: 0.24
+        center: {x: -4.16, y: 1.41, z: 0}
+        minvalue: 0.5
+      rigidsettings:
+        strength: 0
+        layers: 0
+        baseroughness: 0
+        roughness: 0
+        persistence: 0
+        center: {x: 0, y: 0, z: 0}
+        minvalue: 0
+        weightmultiplier: 0

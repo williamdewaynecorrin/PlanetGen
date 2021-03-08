@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 237dcc6c3f34c874d90cc0769f25e96c, type: 3}
+  m_Name: planets_sustainable
+  m_EditorClassIdentifier: 
+  resolution:
+    min: 160
+    max: 200
+    lastpicked: 171
+  planetradius:
+    min: 200
+    max: 350
+    lastpicked: 303
+  noiselayers:
+    min: 2
+    max: 4
+    lastpicked: 4
+  terrainnoisesettings:
+    min:
+      strength: 0.25
+      layers: 2
+      baseroughness: 0.95
+      roughness: 0.9
+      persistence: 0.25
+      center: {x: -3, y: -3, z: -3}
+      minvalue: 0.5
+    max:
+      strength: 0.5
+      layers: 5
+      baseroughness: 1.4
+      roughness: 2.5
+      persistence: 0.45
+      center: {x: 3, y: 3, z: 3}
+      minvalue: 1
+    lastpicked:
+      strength: 0.3031353
+      layers: 2
+      baseroughness: 1.2448193
+      roughness: 2.1143882
+      persistence: 0.37859738
+      center: {x: 0.77883184, y: 1.0741158, z: -1.8898736}
+      minvalue: 0.5725495
+  planetoceandepththeme:
+    min: {r: 0.065854564, g: 0, b: 0.3490566, a: 1}
+    max: {r: 0, g: 0.16791297, b: 0.6320754, a: 1}
+    lastpicked: {r: 0.029190702, g: 0.14295284, b: 0.36089745, a: 1}
+  planetoceansurfacetheme:
+    min: {r: 0.49577522, g: 0, b: 1, a: 1}
+    max: {r: 0, g: 0.81073284, b: 1, a: 1}
+    lastpicked: {r: 0.33837986, g: 0.15839362, b: 1, a: 1}
+  planetgroundtheme:
+    min: {r: 0, g: 0.21698111, b: 0.1420789, a: 1}
+    max: {r: 0.23698723, g: 1, b: 0, a: 1}
+    lastpicked: {r: 0.12219438, g: 0.24778883, b: 0.018102232, a: 1}
+  planetclifftheme:
+    min: {r: 0.1582555, g: 0.5283019, b: 0, a: 1}
+    max: {r: 0.6981132, g: 0.3919914, b: 0, a: 1}
+    lastpicked: {r: 0.6904425, g: 0.4436906, b: 0, a: 1}
+  planetclifftoptheme:
+    min: {r: 1, g: 0.57489336, b: 0, a: 1}
+    max: {r: 1, g: 1, b: 1, a: 1}
+    lastpicked: {r: 1, g: 0.9797413, b: 0.67411876, a: 1}
+  biomescount:
+    min: 1
+    max: 3
+    lastpicked: 1
+  biomenoisesettings:
+    min:
+      strength: 0.15
+      layers: 1
+      baseroughness: 0.9
+      roughness: 0.8
+      persistence: 0.05
+      center: {x: -1, y: -1, z: -1}
+      minvalue: -0.1
+    max:
+      strength: 1.8
+      layers: 4
+      baseroughness: 1.5
+      roughness: 2
+      persistence: 0.5
+      center: {x: 1, y: 1, z: 1}
+      minvalue: 0.1
+    lastpicked:
+      strength: 1.5385102
+      layers: 3
+      baseroughness: 1.2754086
+      roughness: 1.4375374
+      persistence: 0.10490471
+      center: {x: 0.7474077, y: 0.72644186, z: 0.37640736}
+      minvalue: -0.026892964
+  biometintpct:
+    min: 0
+    max: 0.3
+    lastpicked: 0.22745255
+  biomenoiseoffset:
+    min: -0.5
+    max: 0.5
+    lastpicked: -0.25464642
+  biomenoisestrength:
+    min: 0
+    max: 2
+    lastpicked: 0.66742
+  biomeblendamount:
+    min: 0.4
+    max: 1
+    lastpicked: 0.59960324
+  watersmoothness:
+    min: 0.6
+    max: 1.3
+    lastpicked: 0.8995994
+  waterbumpstrength:
+    min: 0.6
+    max: 1.2
+    lastpicked: 1.0228364
+  waterscale:
+    min: {x: 5, y: 5}
+    max: {x: 25, y: 25}
+    lastpicked: {x: 9.599726, y: 16.107342}
+  waterscroll:
+    min: {x: -0.2, y: -0.2}
+    max: {x: 0.2, y: 0.2}
+    lastpicked: {x: -0.12617387, y: 0.0007915199}

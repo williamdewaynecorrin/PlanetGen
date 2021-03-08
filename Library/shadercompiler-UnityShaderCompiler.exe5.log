@@ -1,0 +1,7 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2019.1.14f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at PopulatePlanet.compute(82): undeclared identifier 'PerlinHeight'
+  api=4 insize=3622 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=3520 outsize=5161 ok=1

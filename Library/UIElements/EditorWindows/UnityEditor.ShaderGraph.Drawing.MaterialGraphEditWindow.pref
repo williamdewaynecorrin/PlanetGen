@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12386, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - __PanelContainer__rootVisualContainer__657719aec51f3cb41ba3a46303fd2647__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__657719aec51f3cb41ba3a46303fd2647__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__cbb42bb69d09f50419a49a4eb70e0c82__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__cbb42bb69d09f50419a49a4eb70e0c82__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__08a592d9e5477424298034becac61c40__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__08a592d9e5477424298034becac61c40__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__5627cfe5e4157604a806704fb88a15fd__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__5627cfe5e4157604a806704fb88a15fd__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__58bcac8e0f4801745ac43bc9a2ac3b54__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__58bcac8e0f4801745ac43bc9a2ac3b54__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  m_Values:
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{"position":{"x":1321.0,"y":513.0,"z":0.0},"scale":{"x":0.2606240212917328,"y":0.2606240212917328,"z":1.0}}'
+  - '{"m_Version":454,"m_SelectedElementsArray":["a463f7e5-67bf-49a7-ab4c-54de0043f422","9a8ae1bd-9304-4505-a0ae-06c5489357c8","086426e1-c815-4e18-a489-bbcdcbce813b","86d83de3-ed3f-4131-bbe6-696fad7f6e38","ed25b3f3-e10b-4d3d-81b7-92709d630b7a","ef864fa2-4797-43c6-ab1a-ee1021ccf309","5f258e51-6ced-4eee-8ba2-ae2ddef8027b","b79a1020-b4be-4eb4-9305-4159207422bf","2f0e59dd-cd8a-4aaa-acfb-309e9c9eb773","965564a4-c142-4389-bb65-67d984db1c2b","97bd1385-a561-4922-9e2a-a0c0277473c5","075641ad-4d05-4624-bba9-fe695fe10963","0dfeab0a-4a9c-44c7-a930-9e93181bf09b","180cdfae-cf38-461b-90b3-befa3d1abd54","8a23adfa-2a1a-48ca-8eb9-f9d2213d49fc","1e766c74-c8b4-448a-b654-446677bf7915","8178a97c-3b96-4d64-b209-fa23cdb88c85","aca87fb5-c35e-4610-acb4-7091f7e880ea","72d5c1ed-607d-47ae-87c4-56b46a94b981","09e04654-ee3b-474e-8f24-bc50bf43c5c2","9ce167ce-98f3-43a1-b823-c9ffcd7b7c8c","d7b10650-6916-4a40-95a3-77386bef6e09","d3f68a5a-7d35-4d47-b180-7ced196bf447","8a025834-de16-4d08-b73e-12cf5e40935c","124deb2f-f830-49e7-9f7b-baf2e7fc315b","9527656b-1f15-4243-9e15-2c863d7cad0e","f734677f-be51-4e7c-8cef-8cdd41110394","918011d1-f0eb-4705-8093-04741ef8c21d","c3d9c943-85ab-4bb9-be84-339e4ba106c6","7196108e-3820-433d-ac43-0f8029d713ae","a8825289-ed1e-49c1-af5a-e140a1b4dab5","839b3caa-690a-408f-a969-f0c522ca3926","7fbce895-395f-4a4a-9413-f6ab058b7411","b2dbed49-60c6-4382-b511-4e63eb0c79a0","132b50af-30eb-4b8d-a7aa-748e3d19fe90","75040836-5fc2-4504-b986-9e57944f9f81","ad9c772d-8ab9-43c9-9843-ae246b861815","a25ab3cd-a4c2-4803-8c24-2edbe0b2cec2","20701b34-5352-4d06-9b4a-74ce3cbbd743","192bbfc6-a3f1-4823-aeba-fe1758b0c264"]}'

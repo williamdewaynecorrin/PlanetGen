@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/content/levels/test_level_planet_generation.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

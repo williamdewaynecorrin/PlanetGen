@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcd55778611d0f045b3b51ef1458c8bb, type: 3}
+  m_Name: shape_01
+  m_EditorClassIdentifier: 
+  planetradius: 10000
+  noiselayers:
+  - enabled: 1
+    usefirstlayerasmask: 0
+    settings:
+      description: Continents
+      filtertype: 0
+      simplesettings:
+        strength: 0.24
+        layers: 5
+        baseroughness: 0.96
+        roughness: 2.29
+        persistence: 0.3
+        center: {x: 1.47, y: -9.3, z: 0}
+        minvalue: 0.92
+      rigidsettings:
+        strength: 1
+        layers: 1
+        baseroughness: 1
+        roughness: 1
+        persistence: 0.5
+        center: {x: 0, y: 0, z: 0}
+        minvalue: 0.5
+        weightmultiplier: 0.8
+  - enabled: 1
+    usefirstlayerasmask: 1
+    settings:
+      description: Mountains
+      filtertype: 0
+      simplesettings:
+        strength: 0.29
+        layers: 5
+        baseroughness: 2.16
+        roughness: 2
+        persistence: 0.87
+        center: {x: 3.13, y: 13.2, z: 0}
+        minvalue: 1.75
+      rigidsettings:
+        strength: 1
+        layers: 1
+        baseroughness: 1
+        roughness: 1
+        persistence: 0.5
+        center: {x: 0, y: 0, z: 0}
+        minvalue: 0.5
+        weightmultiplier: 0.8
+  - enabled: 1
+    usefirstlayerasmask: 0
+    settings:
+      description: Craters
+      filtertype: 0
+      simplesettings:
+        strength: -0.18
+        layers: 3
+        baseroughness: 0.74
+        roughness: 1.21
+        persistence: 0.5
+        center: {x: -1.86, y: 0, z: 0}
+        minvalue: 1.12
+      rigidsettings:
+        strength: 1
+        layers: 1
+        baseroughness: 1
+        roughness: 1
+        persistence: 0.5
+        center: {x: 0, y: 0, z: 0}
+        minvalue: 0.5
+        weightmultiplier: 0.8
+  - enabled: 1
+    usefirstlayerasmask: 0
+    settings:
+      description: Rigid
+      filtertype: 1
+      simplesettings:
+        strength: 1
+        layers: 1
+        baseroughness: 1
+        roughness: 1
+        persistence: 0.5
+        center: {x: 0, y: 0, z: 0}
+        minvalue: 0.5
+      rigidsettings:
+        strength: 0.1
+        layers: 2
+        baseroughness: 0.9
+        roughness: 1
+        persistence: 0.5
+        center: {x: 3.66, y: 0, z: 0}
+        minvalue: 0.75
+        weightmultiplier: 2.36
